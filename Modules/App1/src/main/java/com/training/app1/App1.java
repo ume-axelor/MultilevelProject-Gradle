@@ -5,6 +5,6 @@ public class App1{
   }
   
   public static void dummyFunction(){
-    System.out.println("App1 ---- Running");
+    System.out.println("App1");
   }
 }

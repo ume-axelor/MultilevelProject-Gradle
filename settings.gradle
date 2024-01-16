@@ -1,4 +1,4 @@
-rootProject.name = 'MultiProject'
+rootProject.name = 'MultiLevelProject-Gradle'
 
 include('Modules:App1')
 include('Modules:App2')
