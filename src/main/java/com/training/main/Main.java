@@ -1,6 +1,6 @@
 package com.training.main;
 
-import com.tarining.app2.App2;
+import com.training.app2.App2;
 import com.training.app1.App1;
 
 public class Main{
